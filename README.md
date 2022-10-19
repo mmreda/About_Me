@@ -16,3 +16,7 @@ This app demonstrates the following views and techniques:
 - Setting multiple click handlers programmatically
 
 # Screenshots
+
+![Screenshot1](screenshots/About_Me_ScreenShots_1.png)
+![Screenshot2](screenshots/About_Me_ScreenShots_2.png)
+![Screenshot3](screenshots/About_Me_ScreenShots_3.png)
